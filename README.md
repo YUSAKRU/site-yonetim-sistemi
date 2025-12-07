@@ -4,7 +4,7 @@
 
 Bu proje, site sakinlerinin taleplerini kolayca iletebileceği, yönetimin iş takibini verimli bir şekilde yapabileceği ve personelin görevlerini mobil uyumlu bir arayüzden yönetebileceği bulut tabanlı bir çözümdür.
 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://yusakru.github.io/github-pages-2/)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://yusakru.github.io/site-yonetim-sistemi/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -18,6 +18,22 @@ Geleneksel site yönetim yazılımlarının aksine, bu sistem kurulum maliyeti g
 *   **Talep Yönetimi**: Arıza, temizlik veya güvenlik taleplerini anlık oluşturma ve takip etme.
 *   **Analitik Dashboard**: Yönetim için grafiksel raporlar ve iş zekası ekranları.
 *   **Mobil Uyumlu**: Her cihazda (Telefon, Tablet, PC) kusursuz görünüm.
+
+---
+
+## 🌍 Canlı Demo & Test Hesapları
+
+Projeyi canlı ortamda test etmek için aşağıdaki adresi ve hesap bilgilerini kullanabilirsiniz:
+
+👉 **Uygulama Adresi:** [https://yusakru.github.io/site-yonetim-sistemi/login](https://yusakru.github.io/site-yonetim-sistemi/login)
+
+**Giriş Bilgileri (Tüm hesaplar için şifre: `123456`)**
+
+| Rol | Email | Yetki |
+| :--- | :--- | :--- |
+| **Yönetici (Admin)** | `admin@site.com` | Tam yetki, sistem yönetimi, raporlar |
+| **Personel** | `staff@site.com` | İş taleplerini görüntüleme ve güncelleme |
+| **Site Sakini** | `resident@site.com` | Talep oluşturma ve takip etme |
 
 ---
 
