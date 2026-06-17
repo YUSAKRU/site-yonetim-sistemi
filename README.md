@@ -108,7 +108,7 @@ This project provides a seamless interface for residents to submit requests (mai
 
 | Login Page | Resident Dashboard | Admin Panel |
 | :---: | :---: | :---: |
-| ![Login](docs/images/login_screen.jpg) | ![Dashboard](docs/images/resident_dashboard.jpg) | ![Admin](docs/images/admin_panel.jpg) |
+| ![Login](docs/images/login_screen.png) | ![Dashboard](docs/images/resident_dashboard.png) | ![Admin](docs/images/admin_panel.png) |
 
 ---
 *Geliştirici: [YUSAKRU](https://github.com/yusakru)*
