@@ -1,0 +1,16 @@
+# Handle line endings automatically for files detected as text 
+# and safely binary for others.
+* text=auto
+
+# Standardize line endings for common text files
+*.html text
+*.css text
+*.js text
+*.jsx text
+*.json text
+*.md text
+*.yml text
+*.rules text
+
+# Ensure shell scripts always use LF
+*.sh text eol=lf
